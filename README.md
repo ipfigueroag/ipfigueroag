@@ -5,14 +5,14 @@ Welcome to my github profile! Here you will find my projects related to microbio
 
 💻 Software I use in my coding sessions:
 
-<img src="https://github.com/user-attachments/assets/158ed4d2-e109-4d31-a2d4-13b2dbbaefa1" width="50" height="50"> <img src="https://github.com/user-attachments/assets/1bcc1c18-6233-4d63-8799-d7179ba1e625" width="120" height="50"> <img src="https://github.com/user-attachments/assets/193c6d1c-05dd-44d1-921a-876791427f92" width="50" height="50"> <img src="https://github.com/user-attachments/assets/3f87e192-b9f8-47c9-ad5e-9229e620f78f" width="50" height="50"> <img src="https://github.com/user-attachments/assets/7646ddb7-8f80-4dca-a3d6-ff8370c18eaa" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/e911b7e4-7b34-4f91-96db-14a73880e04a" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/5973e82e-906b-4471-bd9d-e67ae49ee8a1" width="50" height="50">
-<img src="https://github.com/user-attachments/assets/5bbcb02c-4bbc-4408-a32c-4a6dd53d7ca2" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/a2ccecc8-6ac5-4578-bcdc-3b49d776a29d" width="50" height="50">  <img src="https://github.com/user-attachments/assets/8e1ac9d6-dd38-483b-964d-95280347da65" width="50" height="50"> <img src="https://github.com/user-attachments/assets/f48a900a-dd0c-4e38-b0bc-02e656ab2a0e" width="50" height="50"> <img src="https://github.com/user-attachments/assets/c3ab2c79-f97a-4668-843f-14fd4c6b4482" width="50" height="50"> <img src="https://github.com/user-attachments/assets/77919f69-cf50-4326-8fd1-a2a887890fde" width="125" height="50"> 
+<img src="https://github.com/user-attachments/assets/18083641-575d-4291-a999-b0696aa4f8c8" width="55" height="60"> 
+<img src="https://github.com/user-attachments/assets/96dfa4ce-b7cd-4dad-a81f-9f85ab2f68c9" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/040c04fa-f7ed-4215-8b01-9c99d5d67b1e" width="50" height="50">
 
 
-- 📍 I´m currently located at Munich, Germany.
+- 📍 I´m currently settled in Munich, Germany.
 - 🔭 I’m currently working on root nodule microbiome analysis, which is a project from an Argentinian group.
 - 🌱 I’m currently learning German and Python.
-- 👯 I’m looking to collaborate on a microbiome research group.
-- 📫 How to reach me: please write an email to ipfigueroag@unal.edu.co
+- 👯 I’m looking to collaborate on a German research group.
+- 📫 How to reach me: please write an email to ipfigueroag@unal.edu.co or ifigueroagalvis@iib.unsam.edu.ar
